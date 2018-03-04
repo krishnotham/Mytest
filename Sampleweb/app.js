@@ -10,6 +10,7 @@ routerApp.config(function($stateProvider, $urlRouterProvider) {
         .state('home', {
             url: '/home',
             templateUrl: 'partial-home.html'
+            ///jtghsdjhljk
         })
         
         // nested list with custom controller
